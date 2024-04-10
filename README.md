@@ -1,5 +1,7 @@
 <p align="center">
- <img width="100px" src="https://github.com/gaya3senanayake/Gayathri-Senanayake/blob/main/3-19.jpg" align="center" alt="GitHub Readme Stats" /></p>
+ <img width="100px" src="https://raw.githubusercontent.com/gaya3senanayake/gaya3senanayake/main/gaya3.webp" align="center" 
+  
+  alt="GitHub Readme Stats" /></p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/gayathrisenanayake/">
