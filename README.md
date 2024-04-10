@@ -11,10 +11,9 @@
 
 - 👋 Hi, I’m Gayathri Senanayake.
 - 👀 I’m a data analyst who enjoys documenting her learning journey.
-- 🌱 I’m currently learning data storytelling.
+- 🌱 I’m currently learning Microsoft Power Apps and data storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
-- 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently learning how to build simple models as a data analyst
+- 🔭 I’m currently working on Machine Learning Projects: Customer Churn Prediction, Bank Customer Non-Performance Prediction
 - 💬 Ask me about Data Analytics
 - ⚡ Fun fact: I love music, coding, and seeing movies.
  
