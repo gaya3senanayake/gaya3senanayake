@@ -1,4 +1,3 @@
-# gaya3senanayake'
 <p align="center">
  <img width="100px" src="https://github.com/gaya3senanayake/Gayathri-Senanayake/blob/main/3-19.jpg" align="center" alt="GitHub Readme Stats" /></p>
 
