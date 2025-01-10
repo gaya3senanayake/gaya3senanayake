@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" height="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
-<p align="left"> <a href="https://www.linkedin.com/in/gayathri-senanayake/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
+<p align="left"> <a href="[https://www.linkedin.com/in/gayathrisenanayake/](https://www.linkedin.com/in/gayathrisenanayake/)" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
 
 <p align="center">
