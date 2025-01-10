@@ -1,3 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21+I'm+Gayathri+Senanayake+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
+<h3 align="center">Expert in Data Science & Analytics: Machine Learning, Credit Risk Modelling, and Business Intelligence</h3>
+
+<img align="right" alt="coding" height="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+
+<p align="left"> <a href="https://www.linkedin.com/in/gayathri-senanayake/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
+
+
 <p align="center">
  <img width="100px" src="https://github.com/gaya3senanayake/gaya3senanayake/blob/main/3-19.jpg" align="center" 
     alt="GitHub Readme Stats" /></p>
