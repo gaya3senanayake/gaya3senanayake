@@ -21,7 +21,8 @@
 - 👀 I’m a data analyst who enjoys documenting her learning journey.
 - 🌱 I’m currently learning Microsoft Power Apps and data storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
-- 🔭 I’m currently working on Machine Learning Projects: Customer Churn Prediction, Bank Customer Non-Performance Prediction
+- 🔭 I’m currently working on Machine Learning Projects:
+      -- Air Quality Prediction and Monitoring System for Finland, Illegal Drugs Usage monitoring and trends prediction for young people in finland
 - 💬 Ask me about Data Analytics
 - ⚡ Fun fact: I love music, coding, and seeing movies.
  
